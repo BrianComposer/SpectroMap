@@ -4,6 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 *.so
+*.wav
+*.png
+*.cns
 
 # Build
 build/
